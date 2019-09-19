@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class 
 EnvironmentSetupController {
 
-	@RequestMapping("/start")
-	public String start()
+	@RequestMapping("/index")
+	public String index()
 	{
-		return "start";
+		return "index";
 	}
 }
