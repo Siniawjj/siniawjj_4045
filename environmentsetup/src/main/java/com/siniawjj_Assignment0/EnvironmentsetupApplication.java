@@ -1,4 +1,4 @@
-package com.environmentsetup;
+package com.siniawjj_Assignment0;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
